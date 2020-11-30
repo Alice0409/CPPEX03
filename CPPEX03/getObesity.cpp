@@ -1,4 +1,4 @@
-inline int getObesity(double bmi) {
+int getObesity(double bmi) {
 	int num;
 
 	if (bmi < 18.5) num = -1;

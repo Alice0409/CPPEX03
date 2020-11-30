@@ -1,7 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
-#include "getBmi.cpp"
-#include "getObesity.cpp"
+#include "getObesity.h"
 
 int main() {
 	double height;

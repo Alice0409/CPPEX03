@@ -1,4 +1,4 @@
-inline double getBmi(double height, double weight) {
+double getBmi(double height, double weight) {
 	double bmi;
 
 	height /= 100;
